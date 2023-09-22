@@ -1,0 +1,9 @@
+dotenv
+flask
+json
+urllib
+pytube
+openai
+tiktoken
+deepgram
+asyncio

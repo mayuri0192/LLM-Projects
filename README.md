@@ -1,6 +1,6 @@
 # README
 
-![LLM Projects](/assets/transformer.png)
+![LLM Projects](/assets/llm.png)
 
 ## LLM Projects Repository
 
@@ -8,8 +8,10 @@ This repository contains various projects on Natural Language Processing (NLP) t
 
 | Project                      | Medium Article Link                                       |
 |------------------------------|-----------------------------------------------------------|
-| Transformer from scratch    | [Understanding Transformer architecture](https://medium.com/@0192.mayuri/understanding-transformer-architecture-a-comprehensive-guide-2c8d1330d933)  |
-| Named Entity Recognition (NER) | [NER with BERT](https://medium.com/link-to-ner-article)    |
+| [Transformer from scratch](https://github.com/mayuri0192/LLM-Projects/tree/main/Transformer_from_scratch)    | [Understanding Transformer architecture](https://medium.com/@0192.mayuri/understanding-transformer-architecture-a-comprehensive-guide-2c8d1330d933)  |
+| [Named Entity Recognition (NER)](https://github.com/mayuri0192/LLM-Projects/tree/main/Healthcare_data_finetuning_BioBert_ClinicalBert_NER) | [NER with BERT](https://medium.com/@0192.mayuri/bert-training-and-fine-tuning-c49718d639ba)    |
+| [Text Classification](https://github.com/mayuri0192/LLM-Projects/tree/main/Multiclass_textclassification_finetuning_distillbert)| [Text Classification with BERT](https://medium.com/@0192.mayuri/bert-training-and-fine-tuning-c49718d639ba) |
+| [Video Summarizer](https://github.com/mayuri0192/LLM-Projects/tree/main/video_summarizer) | [Video Summarization using GPT-3.5](https://medium.com/link-to-video-summarization-article)|
 | Sentiment Analysis             | [Sentiment Analysis with BERT](https://medium.com/link-to-sentiment-analysis-article) |
 | Similarity Embeddings          | [Similarity Embeddings with BERT](https://medium.com/link-to-similarity-embeddings-article) |
 | Topic Modelling                | [Topic Modelling with BERT](https://medium.com/link-to-topic-modelling-article) |

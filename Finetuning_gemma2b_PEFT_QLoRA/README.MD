@@ -6,3 +6,5 @@ which means full fine-tuning is not possible, and we need to use parameter-effic
 
 We will use the QLoRA technique to fine-tune the model in 4-bit precision and optimize VRAM usage. 
 For that, we will use the Hugging Face ecosystem of LLM libraries: transformers, accelerate, peft, trl, and bitsandbytes.
+
+Checkout [medium article](https://medium.com/@0192.mayuri/efficient-fine-tuning-of-ai-models-with-lora-and-qlora-69efdb2a3faf) to know concepts in detail.

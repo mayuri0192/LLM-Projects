@@ -12,7 +12,9 @@ This repository contains various projects on Natural Language Processing (NLP) t
 | [Named Entity Recognition (NER)](https://github.com/mayuri0192/LLM-Projects/tree/main/Healthcare_data_finetuning_BioBert_ClinicalBert_NER) | [NER with BERT](https://medium.com/@0192.mayuri/bert-training-and-fine-tuning-c49718d639ba)    |
 | [Text Classification](https://github.com/mayuri0192/LLM-Projects/tree/main/Multiclass_textclassification_finetuning_distillbert)| [Text Classification with BERT](https://medium.com/@0192.mayuri/bert-training-and-fine-tuning-c49718d639ba) |
 | [Finetune Gemma2b using PEFT, LoRA, QLoRA]()| [Efficient Fine-Tuning of AI Models with LoRA and QLoRA](https://medium.com/@0192.mayuri/efficient-fine-tuning-of-ai-models-with-lora-and-qlora-69efdb2a3faf)
-| [Video Summarizer](https://github.com/mayuri0192/LLM-Projects/tree/main/video_summarizer) | [Video Summarization using GPT-3.5](https://github.com/mayuri0192/LLM-Projects/blob/main/video_summarizer/README.md)|
+| [LLM Tokenizers Comparison]() | [Tokenizers Techniques Summary](https://medium.com/@0192.mayuri/summarizing-techniques-in-tokenizers-69126001997d)
+| [Video Summarizer](https://github.com/mayuri0192/LLM-Projects/tree/main/
+video_summarizer) | [Video Summarization using GPT-3.5](https://github.com/mayuri0192/LLM-Projects/blob/main/video_summarizer/README.md)|
 | Sentiment Analysis             | [Sentiment Analysis with BERT](https://medium.com/link-to-sentiment-analysis-article) |
 | Similarity Embeddings          | [Similarity Embeddings with BERT](https://medium.com/link-to-similarity-embeddings-article) |
 | Topic Modelling                | [Topic Modelling with BERT](https://medium.com/link-to-topic-modelling-article) |
